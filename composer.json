@@ -1,0 +1,23 @@
+{
+    "name": "dev_babs/complete-laravel-seo",
+    "description": "Optimise your Laravel Project for efficient SEO",
+    "authors": [
+        {
+            "name": "Babalola Macaulay",
+            "email": "babsmacheda@ymail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Devbabs\\LaravelSEO\\": "src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Devbabs\\LaravelSEO\\LaravelSEOServiceProvider"
+            ]
+        }
+    }
+}
