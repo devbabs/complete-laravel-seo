@@ -11,13 +11,13 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Devbabs\\LaravelSEO\\": "src"
+            "Devbabs\\CompleteLaravelSEO\\": "src"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Devbabs\\LaravelSEO\\LaravelSEOServiceProvider"
+                "Devbabs\\CompleteLaravelSEO\\CompleteLaravelSEOServiceProvider"
             ]
         }
     }

@@ -1,10 +1,10 @@
 <?php
 
-namespace Devbabs\LaravelSEO;
+namespace Devbabs\CompleteLaravelSEO;
 
 use Illuminate\Support\ServiceProvider;
 
-class LaravelSEOServiceProvider extends ServiceProvider
+class CompleteLaravelSEOServiceProvider extends ServiceProvider
 {
     /**
      * Register services.
